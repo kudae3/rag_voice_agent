@@ -1,7 +1,7 @@
 import { createElement, useEffect } from "react";
 import "./App.css";
 
-const AGENT_ID = "agent_6101m4d7xva6fymthez0fr4zd4t4";
+const AGENT_ID = "agent_6001m5bhmcwzf9tsw21n7z3f2tx1";
 // const WIDGET_SRC = "https://unpkg.com/@elevenlabs/convai-widget-embed";
 const WIDGET_SRC = "https://elevenlabs.io/convai-widget/index.js"; 
 
